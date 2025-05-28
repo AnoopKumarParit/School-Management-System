@@ -5,6 +5,6 @@ export const upcomingAppointments = [
   },
   {
     day: "On Saturday",
-    appointments: ["🏥 Health checkup complete","🫀 Cardiologist"]
+    appointments: ["🏥 Routine Health checkup","🫀 Cardiologist"]
   }
 ];

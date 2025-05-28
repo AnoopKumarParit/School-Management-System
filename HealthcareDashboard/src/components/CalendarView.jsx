@@ -3,7 +3,7 @@ import React from 'react'
 function CalendarView({ calendarAppointments, appointmentDetails }) {
   return (
      <div className="bg-white p-6 rounded-2xl shadow-lg">
-      <h3 className="font-bold text-xl mb-4 text-blue-700">May 2025</h3>
+      <h3 className="font-bold text-xl mb-4 text-blue-700">October 2021</h3>
       <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-7 gap-2 text-center text-sm">
         {[...Array(31)].map((_, i) => (
           <div key={i} className="border rounded p-3 hover:bg-blue-50">

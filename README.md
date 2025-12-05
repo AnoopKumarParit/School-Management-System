@@ -1,6 +1,6 @@
 Developed a full-stack Student Management System featuring a robust backend built with Spring Boot and a dynamic frontend interface (React/HTML). The application provides role-based access for admin and students, enabling efficient management of student profiles, academic details, and administrative operations.
 
-Key Responsibilities & Features:
+<h1>Key Responsibilities & Features:</h1>
 
 Designed and implemented RESTful APIs using Spring Boot to perform CRUD operations for students, courses, and departments.
 
